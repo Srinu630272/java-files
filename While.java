@@ -1,6 +1,6 @@
 import java.util.Scanner;
 public class While {
-    public static void main(String []args){
+    public static void main(String1 []args){
         Scanner input = new Scanner(System.in);
     int number = 1;
     while(number<5){  // while loop will run until it becomes false
