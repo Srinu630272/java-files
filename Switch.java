@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Break {
+public class Switch {
    public static void main(String args[]){
     Scanner scan = new Scanner(System.in);
     System.out.println(" please enter the number ");
